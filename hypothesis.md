@@ -15,7 +15,9 @@ also, we should know the exact resolution of our data too?
 # Hypothesis (new version, edited 09 Mar)
 The research questions can be divided into two main components
 1. How does alpha laterisation relate to behavioural success?
+2. 
 a) Does behavioural success modulate the characteristics or trends of alpha laterisation across experimental conditions?
+
 b) Through temporal and spatial analyses of alpha laterisation, how does this neural activity contribute to task performance?
 
-2. Do additional biomedical measures, such as audiograms and pupillometry data, provide insights beyond explaining individual variability?
+4. Do additional biomedical measures, such as audiograms and pupillometry data, provide insights beyond explaining individual variability?
