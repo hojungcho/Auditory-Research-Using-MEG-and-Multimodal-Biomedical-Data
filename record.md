@@ -20,7 +20,7 @@ Risk assessment submitted
 22 Jan 2026: Group meeting + discussion
 
 
-# Pipeline  
+# Pipeline (edited 09 Mar) 
 1. Data acquistion  
 preparing stimulus & take session
 2. Preprocessing data  
