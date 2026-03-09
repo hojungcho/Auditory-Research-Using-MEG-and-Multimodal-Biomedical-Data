@@ -9,3 +9,5 @@ a) Does frequency spectrum of one's hearing ability decides familiarity on parti
 b) Could short-term familiarity on particular speaker could be built after this training?
 4. Guess Detection  
 a) Sometimes the response may be done with guessing/elimination. We may detect this with neural/ocular records or by (experimentally) applying mTRF on recordings.
+
+also, we should know the exact resolution of our data too?

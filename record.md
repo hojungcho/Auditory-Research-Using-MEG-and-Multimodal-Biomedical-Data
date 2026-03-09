@@ -8,7 +8,13 @@ Risk assessment submitted
 11 Nov 2025: Hypothesis formation + & SPM tutorial  
 20 Nov 2025: Meeting w/ Prof Altmann  
 -Additional discussion on research hypotheses  
-27 Nov 2025: Meeting
+27 Nov 2025: Meeting w/ discussion of papers
+4 Dec 2025: Meeting w/ discussion of papers, SPMs, hypothesis developing
+11 Dec 2025: Meeting w/ discussion of paper, and discussion of experiemnt structure (MEG with cues, data acquistion scheme, etc)
+18 Dec 2025: Meeting w/ plans for next term, hhypothesis, and group meeting
+15 Jan 2026: Meeting via Teams, further discussion on hypothesis development
+22 Jan 2026: Group meeting + discussion
+
 
 # Pipeline  
 1. Data acquistion  
